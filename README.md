@@ -1,4 +1,4 @@
-🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 
 👉React is a popular open-source JavaScript library for building user interfaces using reusable components and a virtual DOM, enabling efficient, dynamic single-page and native apps.
 
@@ -16,7 +16,7 @@
 
 👉Zustand is a minimal, hook-based state management library for React, offering global state without boilerplate.
 
-🌟 Features:
+## 🌟 Features:
 
 🔐 Easy & convenient auth: Handle authentication entirely in the browser using Puter.js—no backend or setup required.
 
